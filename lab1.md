@@ -36,9 +36,11 @@ Bash: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-w
   - a few specific commands you can try are 'cd ~' 'ls -lat' 'ls -a'
   - Commands running may look something like this:
 
-Example Running the ==mkdir== command and making a new directory named "hello":
+
 
 ![Image](commandinserver.png)
+
+Example Running the <mark>mkdir</mark> command and making a new directory named "hello":
   
   ![Image](Term.png)
   
