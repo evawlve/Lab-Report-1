@@ -38,7 +38,7 @@ Bash: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-w
 
 
 
-![Image](commandinserver.png)
+![Image](commandsinserver.png)
 
 Example Running the <mark>mkdir</mark> command and making a new directory named "hello":
   
