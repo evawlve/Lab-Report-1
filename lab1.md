@@ -41,6 +41,11 @@ Bash: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-w
 ![Image](commandsinserver.png)
 
 **Example Running the <mark>mkdir</mark> command and making a new directory named "hello":**
+
+![Image](screenshot.png)
+
+**Example Running the <mark>cat</mark> and <mark>cp</mark> commands!**
+
   
   ![Image](Term.png)
   
