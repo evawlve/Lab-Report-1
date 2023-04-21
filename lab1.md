@@ -42,7 +42,7 @@ Bash: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-w
 
 **Example Running the <mark>mkdir</mark> command and making a new directory named "hello":**
 
-![Image](screenshot.png)
+![Image](screenshot.PNG)
 
 **Example Running the <mark>cat</mark> and <mark>cp</mark> commands!**
 
