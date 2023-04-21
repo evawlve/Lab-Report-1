@@ -19,7 +19,7 @@ Bash: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-w
 
 **Step 2: Opening up the Terminal in VSCode**
 - Open the terminal in VScode by the using the Command "CTRL" or "Command" + ` or use the Terminal -> New Terminal option
-- Enter the command "<mark>ssh</mark> cs15lsp23__@ieng6.ucsd.edu" where the underscores are to be replaced with the letters in your course specific account!
+- Enter the command `ssh` s15lsp23__@ieng6.ucsd.edu where the underscores are to be replaced with the letters in your course specific account!
 
 *Note: (That’s one, five, l (lowercase letter L, not one);*
  - Upon entering, you may receive a message that the authenticity of host... you may enter 'yes' to enter
@@ -32,19 +32,19 @@ Bash: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-w
  *Note: it may not look like you're typing a password, but you are typing a password even if the cursor isn't moving!*
   
   **Step 3: Running Some Commands!**
-  - you can try commands such as '<mark>cd</mark>' '<mark>ls</mark>' '<mark>pwd</mark>' '<mark>mkdir</mark>' '<mark>cp</mark>'
-  - a few specific commands you can try are '<mark>cd ~</mark>' '<mark>ls -lat</mark>' '<mark>ls -a</mark>'
+  - you can try commands such as `cd` `ls` `pwd` `mkdir` `cp`             
+  - a few specific commands you can try are `cd~` `ls -lat` `ls -a`              
   - Commands running may look something like this:
 
 
 
 ![Image](commandsinserver.png)
 
-**Example Running the <mark>mkdir</mark> command and making a new directory named "hello":**
+**Example Running the `mkdir` command and making a new directory named "hello"**
 
 ![Image](screenshot.PNG)
 
-**Example Running the <mark>cat</mark> and <mark>cp</mark> commands!**
+**Example Running the `cat` `cp` commands!**
 
   
   ![Image](Term.png)
@@ -52,7 +52,7 @@ Bash: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-w
   **Step 4: Logging off**
   Logging out of the remote server is quite simple using either of the two options:
   - Using the command 'Ctrl-D'
-  - Run the command '<mark>exit</mark>'
+  - Run the command `exit`     
  
  *Note: you can run multiple terminals in VSCode using the smalle '+' button at the top of the terminal window!*
   
